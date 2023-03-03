@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kp7kkvDT1jnglotzl6wedL6dD2bE+/+SWJqdtRKTx6cK5kJasSn0pmCQtNz/+rL0cIb70pBc0g1xcejBCWFvmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manna\\OneDrive\\Desktop\\net\\projects\\authentication and authorization\\repo\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.Authorization\\ImageGallery.Authorization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.3\\microsoft.aspnetcore.authorization.7.0.3.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.3\\microsoft.aspnetcore.metadata.7.0.3.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

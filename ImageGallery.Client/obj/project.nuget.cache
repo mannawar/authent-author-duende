@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "VSQFQvuJB0JAzBFcdeAehSQEMVBQaHOlu3c3h6L9UPzJyZQ3ecSMM5O2O/3NJMhWHn/pzk1IOZE1Ypg3gqgTvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manna\\OneDrive\\Desktop\\net\\projects\\authentication and authorization\\repo\\SecuringAspNetCore6WithOAuth2AndOIDC\\Starter files\\ImageGallery.Client\\ImageGallery.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manna\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\identitymodel.aspnetcore\\4.3.0\\identitymodel.aspnetcore.4.3.0.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\7.0.3\\microsoft.aspnetcore.authentication.openidconnect.7.0.3.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.3\\microsoft.aspnetcore.authorization.7.0.3.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.3\\microsoft.aspnetcore.metadata.7.0.3.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.1\\microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.1\\microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "C:\\Users\\manna\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
